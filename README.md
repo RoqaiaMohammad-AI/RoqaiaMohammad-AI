@@ -1,4 +1,5 @@
-<h3>ABOUT ME</h3>
+<h3> مرحبا هذا انا</h3
+ <h3>رقية محمد</h3>
 
 مرحبًا، أنا رقية محمد – مطورة أنظمة ويب وأنظمة مؤسسية.  
 أعمل على المسارين: الباك إند والفرونت إند، وأهتم ببناء منصات قوية تخدم فرق العمل وتدعم التشغيل الفعّال.
@@ -24,14 +25,15 @@
 
 📊 أهتم بمجال الذكاء الاصطناعي، وأشتغل على تحليل البيانات باستخدام خوارزميات التعلم الآلي والذكاء الاصطناعي، بهدف استخراج الأنماط وتقديم حلول ذكية تدعم اتخاذ القرار.
 
+---
+
+<h3>خبرتي </h3>
 I'm a versatile developer with experience in building web platforms.  
 I prioritize accessibility, performance, and writing secure, maintainable, and robust code.  
 I also enjoy helping others and collaborating whenever possible.  
 I love open source because contributing, supporting, and giving back to the community not only benefits others but also helps me.
 
 ---
-
-<h3>EXPERIENCE</h3>
 
 I have experience working in both private companies and as a freelancer.
 
