@@ -1,10 +1,10 @@
-<h3> مرحبا هذا انا</h3
- <h3>رقية محمد</h3>
+<h3>Hello, this is me</h3>
+<h3>Roqaia Mohammad</h3>
 
-مرحبًا، أنا رقية محمد – مطورة أنظمة ويب وأنظمة مؤسسية.  
-أعمل على المسارين: الباك إند والفرونت إند، وأهتم ببناء منصات قوية تخدم فرق العمل وتدعم التشغيل الفعّال.
+Hi, I'm Roqaia Mohammad – a web and enterprise systems developer.  
+I work across both backend and frontend, with a passion for building robust platforms that empower teams and streamline operations.
 
-في الباك إند، لدي خبرة باستخدام:
+In the backend, I have experience with:
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </p>
 
-وفي الفرونت إند، أستخدم:
+On the frontend, I work with:
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -21,17 +21,18 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </p>
 
-كما أعمل على تطوير أنظمة داخلية للمؤسسات (Intranet & Admin Platforms) تشمل الحضور، الرواتب، المستخدمين، والصلاحيات.
+I also build internal enterprise platforms (Intranet & Admin Systems) that manage attendance, payroll, users, and permissions.
 
-📊 أهتم بمجال الذكاء الاصطناعي، وأشتغل على تحليل البيانات باستخدام خوارزميات التعلم الآلي والذكاء الاصطناعي، بهدف استخراج الأنماط وتقديم حلول ذكية تدعم اتخاذ القرار.
+📊 I'm passionate about artificial intelligence and work on data analysis using machine learning and AI algorithms to uncover patterns and deliver smart, decision-supporting solutions.
 
 ---
 
-<h3>خبرتي </h3>
+<h3>My Experience</h3>
+
 I'm a versatile developer with experience in building web platforms.  
 I prioritize accessibility, performance, and writing secure, maintainable, and robust code.  
 I also enjoy helping others and collaborating whenever possible.  
-I love open source because contributing, supporting, and giving back to the community not only benefits others but also helps me.
+I love open source because contributing, supporting, and giving back to the community not only benefits others but also helps me grow.
 
 ---
 
